@@ -7,16 +7,16 @@ Front End: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=ja
             ![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?logo=css3)
             ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
             ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
-            ![jQuery](https://img.shields.io/badge/-jQuery-blue?logo=jquery)
+            ![jQuery](https://img.shields.io/badge/-jQuery-blue?logo=jquery)<br></br>
 Back End:  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
             ![Express](https://img.shields.io/badge/-Express-000000?logo=express)
             ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
-            ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
+            ![Java](https://img.shields.io/badge/-Java-007396?logo=java)<br></br>
 Testing/Deployment: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
                     ![Render](https://img.shields.io/badge/-Render-FF6E4C?logo=render)
-                    ![Portainer](https://img.shields.io/badge/-Portainer-07BC0C?logo=portainer)
+                    ![Portainer](https://img.shields.io/badge/-Portainer-07BC0C?logo=portainer)<br></br>
 Developer Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-                 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm)
+                 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm)<br></br>
                  
 📧 Contact: Reach out to me at animalsoa@gmail.com
 💼 LinkedIn: Connect with me on LinkedIn: https://www.linkedin.com/in/autumn-r-sheridan/

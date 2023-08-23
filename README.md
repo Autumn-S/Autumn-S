@@ -1,5 +1,5 @@
 👋 Hi there! I'm Autumn Sheridan, a former USAF Logistics Analyst turned Developer. <br></br>
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/autumn-r-sheridan/)<br></br>
+💼 [LinkedIn](https://www.linkedin.com/in/autumn-r-sheridan/)<br></br>
 
 🔧 Tech Stack: 
 Front End: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)

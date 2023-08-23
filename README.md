@@ -1,4 +1,4 @@
-👋 Hi there! I'm Autumn Sheridan, a former USAF Logistics Analyst turned Developer. 
+👋 Hi there! I'm Autumn Sheridan, a former USAF Logistics Analyst turned Developer. <br></br>
 💼 LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/autumn-r-sheridan/)<br></br>
 
 🔧 Tech Stack: 

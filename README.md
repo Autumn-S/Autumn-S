@@ -18,22 +18,24 @@ Testing/Deployment: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=d
 Developer Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
                  ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm)<br></br>
                  
-📧 Contact: Reach out to me at animalsoa@gmail.com<br></br>
 💼 LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/autumn-r-sheridan/)<br></br>
 🚀 Looking for the next coding adventure!<br></br>
 
 🛠️ Recent Projects:
-1. NVIDIA RTX-4090 GPU Page: Led a team to create a detailed page showcasing NVIDIA's RTX-4090 GPU. Utilized React, JavaScript, and TailwindCSS for front-end, Express, PostgreSQL for back-end, and Render for deployment. Check it out at https://github.com/Autumn-S/VIDIA-RTX-40-product-detail
+1. NVIDIA RTX-4090 GPU Page: Led a team to create a detailed page showcasing NVIDIA's RTX-4090 GPU. Utilized React, JavaScript, and TailwindCSS for front-end, Express, PostgreSQL for back-end, and Render for deployment.<br></br>
+Check it out at https://github.com/Autumn-S/VIDIA-RTX-40-product-detail
 
-2. Insight Online School Application: Managed and led a team to build a comprehensive online school application. Designed the UI/UX using Figma and developed the front-end with React, JavaScript, and TailwindCSS. Back-end powered by Express and PostgreSQL. See it on GitHub: https://github.com/gschool-blue-ocean/insight
+3. Insight Online School Application: Managed and led a team to build a comprehensive online school application. Designed the UI/UX using Figma and developed the front-end with React, JavaScript, and TailwindCSS. Back-end powered by Express and PostgreSQL.<br></br>
+See it at https://github.com/gschool-blue-ocean/insight
 
-🎓 Education: Advanced Software Engineering Immersive graduate from Operation Level-Up, specializing in Full-Stack development with JavaScript, React, Express, and PostgreSQL in an Agile environment.
+🎓 Education: <br></br>
+Advanced Software Engineering Immersive graduate from Operation Level-Up, specializing in Full-Stack development with JavaScript, React, Express, and PostgreSQL in an Agile environment.<br></br>
 
-🚀 Former USAF Logistics Analyst turned Developer:
-🛠️ Problem-solving enthusiast with a knack for agile methodologies.
-🤝 Skilled in cultivating partnerships and driving shared objectives.
-📈 Led teams, managed resources, and delivered exceptional results.
-🏆 Recognized for operational readiness contributions and attention to detail.
+🚀 Former USAF Logistics Analyst turned Developer:<br></br>
+🛠️ Problem-solving enthusiast with a knack for agile methodologies.<br></br>
+🤝 Skilled in cultivating partnerships and driving shared objectives.<br></br>
+📈 Led teams, managed resources, and delivered exceptional results.<br></br>
+🏆 Recognized for operational readiness contributions and attention to detail.<br></br>
 
 🔒 Security Clearance: Secret
 

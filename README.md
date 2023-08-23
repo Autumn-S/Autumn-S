@@ -19,7 +19,7 @@ Developer Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
                  ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm)<br></br>
                  
 📧 Contact: Reach out to me at animalsoa@gmail.com<br></br>
-💼 LinkedIn: Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/autumn-r-sheridan/)<br></br>
+💼 LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/autumn-r-sheridan/)<br></br>
 🚀 Looking for the next coding adventure!<br></br>
 
 🛠️ Recent Projects:

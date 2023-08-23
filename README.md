@@ -18,9 +18,9 @@ Testing/Deployment: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=d
 Developer Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
                  ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm)<br></br>
                  
-📧 Contact: Reach out to me at animalsoa@gmail.com
-💼 LinkedIn: Connect with me on LinkedIn: https://www.linkedin.com/in/autumn-r-sheridan/
-🚀 Looking for the next coding adventure!
+📧 Contact: Reach out to me at animalsoa@gmail.com<br></br>
+💼 LinkedIn: Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/autumn-r-sheridan/)<br></br>
+🚀 Looking for the next coding adventure!<br></br>
 
 🛠️ Recent Projects:
 1. NVIDIA RTX-4090 GPU Page: Led a team to create a detailed page showcasing NVIDIA's RTX-4090 GPU. Utilized React, JavaScript, and TailwindCSS for front-end, Express, PostgreSQL for back-end, and Render for deployment. Check it out at https://github.com/Autumn-S/VIDIA-RTX-40-product-detail

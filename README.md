@@ -1,4 +1,4 @@
-👋 Hi there! I'm Autumn Sheridan, a passionate Full Stack Developer soon to be based in Woodbridge, VA. 🌟
+👋 Hi there! I'm Autumn Sheridan, a former USAF Logistics Analyst turned Developer. 
 💼 LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/autumn-r-sheridan/)<br></br>
 
 🔧 Tech Stack: 
@@ -25,16 +25,5 @@ Check it out at https://github.com/Autumn-S/VIDIA-RTX-40-product-detail
 
 3. Insight Online School Application: Managed and led a team to build a comprehensive online school application. Designed the UI/UX using Figma and developed the front-end with React, JavaScript, and TailwindCSS. Back-end powered by Express and PostgreSQL.<br></br>
 See it at https://github.com/gschool-blue-ocean/insight
-
-🎓 Education: <br></br>
-Advanced Software Engineering Immersive graduate from Operation Level-Up, specializing in Full-Stack development with JavaScript, React, Express, and PostgreSQL in an Agile environment.<br></br>
-
-🚀 Former USAF Logistics Analyst turned Developer:<br></br>
-🛠️ Problem-solving enthusiast with a knack for agile methodologies.<br></br>
-🤝 Skilled in cultivating partnerships and driving shared objectives.<br></br>
-📈 Led teams, managed resources, and delivered exceptional results.<br></br>
-🏆 Recognized for operational readiness contributions and attention to detail.<br></br>
-
-🔒 Security Clearance: Secret
 
 Let's connect and collaborate on exciting projects! 🤝

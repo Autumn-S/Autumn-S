@@ -1,4 +1,4 @@
-👋 Hi there! I'm Autumn Sheridan, a former USAF Logistics Analyst turned Developer. The problem-solving skills and attention to detail that defined my military career are now channeled into creating elegant, efficient, and user-friendly software solutions. I enjoy the challenge of solving new problems and learning new technology. Let's connect and collaborate on exciting projects to further push the boundaries of technology! 🚀 <br></br>
+👋 Hi there! I'm Autumn Sheridan, a former USAF Logistics Analyst turned Developer. The problem-solving skills and attention to detail that defined my military career are now channeled into creating elegant, efficient, and user-friendly software solutions. I enjoy the challenge of solving new problems. Let's connect and collaborate on exciting projects to further push the boundaries of technology! 🚀 <br></br>
 💼 [LinkedIn](https://www.linkedin.com/in/autumn-r-sheridan/)<br></br>
 
 🔧 Tech Stack: 

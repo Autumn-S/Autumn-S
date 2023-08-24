@@ -2,9 +2,9 @@
 💼 [LinkedIn](https://www.linkedin.com/in/autumn-r-sheridan/)<br></br>
 
 🔧 Tech Stack: 
-Front End: ![`JavaScript`](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-            ![`React.js`](https://img.shields.io/badge/-React.js-blue?logo=react)
-            ![`HTML5`](https://img.shields.io/badge/-HTML5-orange?logo=html5)
+Front End: [`JavaScript`](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+            [`React.js`](https://img.shields.io/badge/-React.js-blue?logo=react)
+            [`HTML5`](https://img.shields.io/badge/-HTML5-orange?logo=html5)
             ![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?logo=css3)
             ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
             ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)

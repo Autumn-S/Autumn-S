@@ -1,7 +1,7 @@
 👋 Hi there! I'm Autumn Sheridan, a former USAF Logistics Analyst turned Developer. The problem-solving skills and attention to detail that defined my military career are now channeled into creating elegant, efficient, and user-friendly software solutions. I enjoy the challenge of solving new problems. Let's connect and collaborate on exciting projects to further push the boundaries of technology! 🚀 <br></br>
 💼 [LinkedIn](https://www.linkedin.com/in/autumn-r-sheridan/)<br></br>
 
-🔧 Tech Stack: 
+🔧 Tech Stack: <br></br>
 Front End: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
             ![React.js](https://img.shields.io/badge/-React.js-blue?logo=react)
             ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)

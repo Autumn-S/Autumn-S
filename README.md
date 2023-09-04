@@ -17,14 +17,13 @@ Testing/Deployment: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=d
                     ![Render](https://img.shields.io/badge/-Render-FF6E4C?logo=render)
                     ![Portainer](https://img.shields.io/badge/-Portainer-07BC0C?logo=portainer)<br></br>
 Developer Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-                 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm)
                  ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm)<br></br>
                  
 🛠️ Recent Projects:
 1. NVIDIA RTX-4090 GPU Page: Led a team to create a detailed page showcasing NVIDIA's RTX-4090 GPU. Utilized React, JavaScript, and TailwindCSS for front-end, Express, PostgreSQL for back-end, and Render for deployment.<br></br>
 Check it out at https://github.com/Autumn-S/VIDIA-RTX-40-product-detail
 
-3. Insight Online School Application: Managed and led a team to build a comprehensive online school application. Designed the UI/UX using Figma and developed the front-end with React, JavaScript, and TailwindCSS. Back-end powered by Express and PostgreSQL.<br></br>
+2. Insight Online School Application: Managed and led a team to build a comprehensive online school application. Designed the UI/UX using Figma and developed the front-end with React, JavaScript, and TailwindCSS. Back-end powered by Express and PostgreSQL.<br></br>
 See it at https://github.com/gschool-blue-ocean/insight
 
 Let's connect and collaborate on exciting projects! 🤝

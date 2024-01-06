@@ -8,7 +8,13 @@ Front End: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=ja
             ![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?logo=css3)
             ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
             ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
-            ![jQuery](https://img.shields.io/badge/-jQuery-blue?logo=jquery)<br></br>
+            ![jQuery](https://img.shields.io/badge/-jQuery-blue?logo=jquery)
+            ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+            ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+            ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+            ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+            <br>
+            </br>
 Back End:  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
             ![Express](https://img.shields.io/badge/-Express-000000?logo=express)
             ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
